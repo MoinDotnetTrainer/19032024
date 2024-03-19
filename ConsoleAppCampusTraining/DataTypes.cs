@@ -11,6 +11,8 @@ namespace ConsoleAppCampusTraining
     {
         public void test()
         {
+
+            int fsd = 46;
           /*  sbyte b = -127;
             sbyte s1 = 21;
             Console.WriteLine(s1);
